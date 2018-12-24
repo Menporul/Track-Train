@@ -32,3 +32,6 @@ $RECYCLE.BIN/
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
+/.vs/config/applicationhost.config
+*.suo
+/.vs/slnx.sqlite
